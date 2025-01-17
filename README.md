@@ -52,14 +52,6 @@ To replicate the project:
 
 ---
 
-## 🎥 Project in Action
-
-Here’s a video showcasing the traffic light system in action:
-
-![Traffic Light Demo](Video.mp4)
-
----
-
 ## 🖼️ Project Showcase
 
 ### Circuit Design

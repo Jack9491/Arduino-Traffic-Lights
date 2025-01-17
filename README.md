@@ -55,9 +55,10 @@ To replicate the project:
 ## 🖼️ Project Showcase
 
 ### Circuit Design
-![Circuit Design](https://github.com/user-attachments/assets/ddc14923-e576-406b-9916-6ab9591f08a1)
+![Circuit Top Down](https://github.com/user-attachments/assets/dc841fab-e1dc-4151-a17c-fb4d00004098)
 
 ### Breadboard and Arduino Connections
+![Breadboard Side Shot](https://github.com/user-attachments/assets/ddc14923-e576-406b-9916-6ab9591f08a1)
 ![Breadboard Close-Up](https://github.com/user-attachments/assets/71d39be5-6558-4ca1-aa4f-6daf20f2a3e0)
 ![Breadboard Components](https://github.com/user-attachments/assets/573c8e93-ef30-4a81-9ae7-b739453f003a)
 ![Arduino and Circuit](https://github.com/user-attachments/assets/b923ef5f-ef1c-4a2d-b383-d4befcf83f2b)

@@ -74,4 +74,4 @@ To replicate the project:
 
 ---
 
-Feel free to explore the code, watch the video, or build your own version of the project! 😊
+Feel free to explore the code or build your own version of the project! 😊
